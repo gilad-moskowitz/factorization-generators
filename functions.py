@@ -126,7 +126,7 @@ def LSGens(S):
     
     
     
-    def LSGenNumsWithTime(S, L):
+def LSGenNumsWithTime(S, L):
     start = time.time()
     N = [] 
     print '\n'

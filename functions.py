@@ -150,7 +150,7 @@ def LSGenNumsWithTime(S, L):
     
     
     
-    def LSGenNums(S, L):
+def LSGenNums(S, L):
     N = [] 
     print '\n'
     print S.gens
